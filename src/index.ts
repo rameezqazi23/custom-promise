@@ -9,4 +9,4 @@ const user: TUser = {
   age: 34,
 };
 
-console.log("User Print: ", user);
+console.log("User Prints: ", user);
